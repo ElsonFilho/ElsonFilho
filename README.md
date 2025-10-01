@@ -16,7 +16,7 @@
 - **Cloud**: AWS, Azure, GCP
 
 ### Connect With Me
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/elsonmendesfilho/)) | [Email](elsonmendesfilho@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/elsonmendesfilho/) | [Email](elsonmendesfilho@outlook.com)
 
 ---
 ⭐️ Check out my pinned repositories below for examples of my recent work
