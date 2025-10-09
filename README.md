@@ -19,7 +19,7 @@
 - Computer Vision & NLP
 
 **Engineering & Tools**
-- Languages: Python (expert), R, SQL, SAS
+- Languages: Python, R, SQL, SAS
 - MLOps: Docker, MLflow, CI/CD
 - Cloud: AWS, Azure, GCP
 
